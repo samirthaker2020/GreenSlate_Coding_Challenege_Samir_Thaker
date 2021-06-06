@@ -3,7 +3,7 @@ A drink machine application build in ASP.NET  which   accept coins of 1,5,10,25 
 nickel, dime, and quarter.
 1) Clone the repository 
 2) Open in Visual Studio IDE
-3) Open solution Manager->click on solution->Right click on project->properties->Web->Specific Page->select Index.aspx
+3) Open Solution Manager->Click on Solution->Right click on project->properties->Web->Specific Page->select Index.aspx
 4) Save it and Run
 ![3](https://user-images.githubusercontent.com/46947688/120929795-72f6ef80-c6b8-11eb-9f46-ed9444d0937a.PNG)
 ![4](https://user-images.githubusercontent.com/46947688/120929796-72f6ef80-c6b8-11eb-8143-e09cc21dc115.PNG)
